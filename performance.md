@@ -1,6 +1,10 @@
 
 # Performance: 
 **: _Request lifecycle (from browser to server and back), Performance considerations and optimisations_**
+By: 
+    - Raymond
+    - Kiya
+
 
 ## Important concepts:
 * **HTML _[Hypertext Markup Language]_** : the most common language that web pages are written in.
@@ -138,7 +142,8 @@ elements & attributes into nodes with the "Document Object" set as the root of t
         `<link href='https://cdn.keycdn.com' rel='preconnect' crossorigin>`
 ### 6. HTTP/2
 ### 7. Enable Gzip Compression
-    * Gzip is another form of compression which compresses web pages, CSS, and javascript at the server level before sending them over to the browser. 
+    * Gzip is another form of compression which compresses web pages, CSS, and javascript at the server level before sending them over
+      to the browser. 
 
 
 # Reference: 
