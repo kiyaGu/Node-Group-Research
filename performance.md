@@ -1,6 +1,6 @@
 
 # Performance: 
-    ** - _ Request lifecycle (from browser to server and back), Performance considerations and optimisations _ **
+**: _Request lifecycle (from browser to server and back), Performance considerations and optimisations_**
 
 ## Important concepts:
 * HTML [Hypertext Markup Language] : the most common language that web pages are written in.
