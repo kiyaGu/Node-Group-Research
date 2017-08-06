@@ -1,7 +1,7 @@
 
 # Performance: 
 **: _Request lifecycle (from browser to server and back), Performance considerations and optimisations_**
-**By**: 
+##### By: 
     * Raymond
     * Kiya
 
