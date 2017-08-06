@@ -16,7 +16,7 @@
     * the host, 
     * the port, and 
     * the request-URI path.
-        * "[protocol]://[host]/[request-URI]"\
+        * "[protocol]://[host]/[request-URI]"
 **Step 2**: Sending the request
 * A socket connection is opened from our user’s computer to the IP address.
 * HTTP request is sent to the host & the machine waits to get a response back.
